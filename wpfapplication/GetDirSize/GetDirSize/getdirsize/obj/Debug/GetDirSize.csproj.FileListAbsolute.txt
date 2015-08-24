@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\bin\Debug\GetDirSize.dll
+c:\users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\bin\Debug\GetDirSize.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\obj\Debug\GetDirSize.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\obj\Debug\GetDirSize.dll
+c:\users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\obj\Debug\GetDirSize.pdb

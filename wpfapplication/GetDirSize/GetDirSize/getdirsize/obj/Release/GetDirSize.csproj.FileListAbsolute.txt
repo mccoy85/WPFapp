@@ -1,0 +1,10 @@
+C:\Users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\bin\Release\GetDirSize.dll
+C:\Users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\bin\Release\GetDirSize.pdb
+C:\Users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\obj\Release\GetDirSize.csprojResolveAssemblyReference.cache
+C:\Users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\obj\Release\GetDirSize.dll
+C:\Users\daniel\documents\visual studio 2013\Projects\GetDirSize\GetDirSize\obj\Release\GetDirSize.pdb
+C:\Users\dmccoy\Desktop\GetDirSize\GetDirSize\GetDirSize\bin\Release\GetDirSize.dll
+C:\Users\dmccoy\Desktop\GetDirSize\GetDirSize\GetDirSize\bin\Release\GetDirSize.pdb
+C:\Users\dmccoy\Desktop\GetDirSize\GetDirSize\GetDirSize\obj\Release\GetDirSize.csprojResolveAssemblyReference.cache
+C:\Users\dmccoy\Desktop\GetDirSize\GetDirSize\GetDirSize\obj\Release\GetDirSize.dll
+C:\Users\dmccoy\Desktop\GetDirSize\GetDirSize\GetDirSize\obj\Release\GetDirSize.pdb
