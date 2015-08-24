@@ -1,0 +1,36 @@
+﻿<Window x:Name="mainWindow" x:Class="WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication"
+        mc:Ignorable="d"
+        Title="Directory Calculator" Height="352" Width="645">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <WindowsFormsHost x:Name="form" HorizontalAlignment="Left" Height="320" Margin="0,1,-2,0" VerticalAlignment="Top" Width="640"/>
+        <TextBox x:Name="txt1" HorizontalAlignment="Left" Height="20" Margin="49,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" IsEnabled="False"/>
+        <TextBox x:Name="txt2" HorizontalAlignment="Left" Height="20" Margin="49,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" RenderTransformOrigin="0.851,0.088" IsEnabled="False"/>
+        <Button x:Name="btnDir1" Content="Select Directory 1" HorizontalAlignment="Left" Height="20" Margin="293,77,0,0" VerticalAlignment="Top" Width="122" RenderTransformOrigin="0.022,-1.748" Click="btnDir1_Click"/>
+        <Button x:Name="btnDir2" Content="Select Directory 2" HorizontalAlignment="Left" Height="20" Margin="293,121,0,0" VerticalAlignment="Top" Width="122" RenderTransformOrigin="0.022,-1.748" Click="btnDir2_Click" IsEnabled="False"/>
+        <TextBox x:Name="txt3" HorizontalAlignment="Left" Height="20" Margin="49,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" RenderTransformOrigin="0.851,0.088" IsEnabled="False"/>
+        <Button x:Name="btnDir3" Content="Select Directory 3" HorizontalAlignment="Left" Height="20" Margin="293,162,0,0" VerticalAlignment="Top" Width="122" RenderTransformOrigin="0.022,-1.748" Click="btnDir3_Click" IsEnabled="False"/>
+        <Button x:Name="btnRun" Content="Run" HorizontalAlignment="Left" Margin="293,212,0,0" VerticalAlignment="Top" Width="122" Click="btnRun_Click"/>
+
+
+        <Popup Name="Popup1" Width="640" Height="300" Placement="Center" PlacementTarget="{Binding ElementName=form}">
+            <StackPanel Background="Beige">
+                <Button x:Name="btnPopup" Click="PopUp_OK_Click" Height="54" Content="Close" />
+                <TextBlock Name="lblpopUp" FontSize="15" TextWrapping="Wrap" />
+            </StackPanel>
+        </Popup>
+        <Label x:Name="label" Content="Please select at least at least one directory" HorizontalAlignment="Center" VerticalAlignment="Top" Height="47" Width="640" Margin="0,0,-2,0" FontSize="24"/>
+
+
+
+
+    </Grid>
+</Window>

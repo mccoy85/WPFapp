@@ -1,0 +1,16 @@
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\GetDirSize.dll
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\GetDirSize.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+c:\users\daniel\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
